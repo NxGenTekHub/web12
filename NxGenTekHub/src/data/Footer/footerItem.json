@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "title": "Services",
+        "list": [
+            {
+            "id": 1,
+            "text": "Agile",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Big Data & Analytics",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Cloud",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "UI/UX Design",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "DevOps",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "About",
+        "list": [
+            {
+            "id": 1,
+            "text": "Features",
+            "url": "/about"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Contact",
+        "list": [
+            {
+            "id": 1,
+            "text": "Address",
+            "url": "/contact"
+            },
+            {
+            "id": 2,
+            "text": "Help Desk",
+            "url": "/contact"
+            }
+        ]
+    }
+]
