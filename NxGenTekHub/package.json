@@ -1,5 +1,6 @@
 {
   "name": "NxGenTekHub",
+  "homepage": "https://NxGenTekHub.github.io/web12",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,6 +32,8 @@
   },
   "scripts": {
     "start": "set PORT=3008 && react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "git add . && git commit -m 'deploy' && git push",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
